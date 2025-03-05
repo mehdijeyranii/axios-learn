@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": 101,
+      "username": "ali",
+      "email": "ali@gmail.com",
+      "isAdmin": true
+    },
+    {
+      "id": 102,
+      "username": "kalla",
+      "email": "kalaa@gmial.com",
+      "isAdmin": false
+    }
+  ]
+}
