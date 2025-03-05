@@ -1,8 +1,44 @@
 {
-  "api": {
-    "posts": [
-      { "id": 1, "title": "Post 1", "body": "This is the first post" },
-      { "id": 2, "title": "Post 2", "body": "This is the second post" }
-    ]
-  }
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1",
+      "body": "This is the first post"
+    },
+    {
+      "id": 2,
+      "title": "Post 2",
+      "body": "This is the second post"
+    },
+    {
+      "id": "c263",
+      "title": "Hello World!",
+      "body": "This is a new post"
+    },
+    {
+      "id": "7cd0",
+      "title": "Hello World!",
+      "body": "This is a new post"
+    },
+    {
+      "id": "e865",
+      "title": "Hello World!",
+      "body": "This is a new post"
+    },
+    {
+      "id": "2ea0",
+      "title": "Hello World!",
+      "body": "This is a new post"
+    },
+    {
+      "id": "34ff",
+      "title": "Hello World!",
+      "body": "This is a new post"
+    },
+    {
+      "id": "67db",
+      "title": "Hello World!",
+      "body": "This is a new post"
+    }
+  ]
 }
