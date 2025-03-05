@@ -12,7 +12,9 @@ function App() {
   useEffect(() => {
     axios.get(baseURL).then((response) => {
       setPost(response.data);
-      setLoading(false);
+      setTimeout(() => {
+        setLoading(false);
+      }, 3000);
     });
   }, []);
 
