@@ -1,16 +1,8 @@
 {
-  "users": [
-    {
-      "id": 101,
-      "username": "ali",
-      "email": "ali@gmail.com",
-      "isAdmin": true
-    },
-    {
-      "id": 102,
-      "username": "kalla",
-      "email": "kalaa@gmial.com",
-      "isAdmin": false
-    }
-  ]
+  "api": {
+    "posts": [
+      { "id": 1, "title": "Post 1", "body": "This is the first post" },
+      { "id": 2, "title": "Post 2", "body": "This is the second post" }
+    ]
+  }
 }
